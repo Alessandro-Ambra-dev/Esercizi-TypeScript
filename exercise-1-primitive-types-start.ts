@@ -6,13 +6,13 @@
 
 let country: string = "Italy";
 
-let year: any|undefined = undefined;
+let year: undefined = undefined;
 
 let averageTemperature: number = 23.6;
 
 let visited: boolean = true;
 
-let currency: any|null = null;
+let currency: null = null;
 
 // Change the type annotations on these variables so they are correct.
 
